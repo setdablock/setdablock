@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Introduction to Theory of Computation**
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently studying **Software Development**
 
 - 👯 I’m looking to collaborate on **projects!**
 
