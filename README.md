@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brayan Fernandez Reyes</h1>
 <h3 align="center">A passionate software developer from New York</h3>
 
-- 🔭 I’m currently working on **Introduction to Theory of Computation**
+- 🔭 I’m currently learning **Introduction to Theory of Computation**
 
 - 🌱 I’m currently learning **Software Development**
 
