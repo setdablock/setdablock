@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I love playing Yu-Gi Oh and watching Star Wars.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
